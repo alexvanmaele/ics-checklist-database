@@ -1,3 +1,3 @@
 # ICS Checklist Database
-Database: MySQL
-Engine: InnoDB
+* Database: MySQL
+* Engine: InnoDB
